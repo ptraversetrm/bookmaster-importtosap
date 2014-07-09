@@ -1,0 +1,13 @@
+c:\users\harneet\documents\visual studio 2012\Projects\importtosap\importtosap\bin\Debug\importtosap.exe.config
+c:\users\harneet\documents\visual studio 2012\Projects\importtosap\importtosap\bin\Debug\importtosap.exe
+c:\users\harneet\documents\visual studio 2012\Projects\importtosap\importtosap\bin\Debug\importtosap.pdb
+c:\users\harneet\documents\visual studio 2012\Projects\importtosap\importtosap\obj\Debug\importtosap.exe
+c:\users\harneet\documents\visual studio 2012\Projects\importtosap\importtosap\obj\Debug\importtosap.pdb
+c:\users\harneet\documents\visual studio 2012\Projects\importtosap\importtosap\bin\Debug\importtosap.exe.manifest
+c:\users\harneet\documents\visual studio 2012\Projects\importtosap\importtosap\bin\Debug\importtosap.application
+c:\users\harneet\documents\visual studio 2012\Projects\importtosap\importtosap\obj\Debug\importtosap.exe.manifest
+c:\users\harneet\documents\visual studio 2012\Projects\importtosap\importtosap\obj\Debug\importtosap.application
+c:\users\harneet\documents\visual studio 2012\Projects\importtosap\importtosap\obj\Debug\importtosap.csprojResolveAssemblyReference.cache
+C:\Users\Philippe Traverse\workspace\sap_projects\importtosap\importtosap\bin\Debug\importtosap.exe.config
+C:\Users\Philippe Traverse\workspace\sap_projects\importtosap\importtosap\obj\Debug\importtosap.exe
+C:\Users\Philippe Traverse\workspace\sap_projects\importtosap\importtosap\obj\Debug\importtosap.pdb

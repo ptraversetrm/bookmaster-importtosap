@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+		<OrderProcProcesses>
+			<Process Type="ObjectXml" ObjectType="13" Action="Add">
+				<![CDATA[
+				SELECT ' 
+			<objectxml>
+	 				<objectkey />
+	  					<objectdata>
+	  						<BOM>
+<BO><AdmInfo><Object>13</Object></AdmInfo><OINV><row><DocType>S</DocType><DocDate>20130129</DocDate><DocDueDate>20130131</DocDueDate><CardCode>AMZUK-OWLSB</CardCode><NumAtCard>6289378652</NumAtCard><DocCur>GBP</DocCur><Comments>Imported from Amazon XML via TRiM2</Comments></row></OINV><INV1><row><LineNum>0</LineNum><AcctCode></AcctCode><Dscription>Sales Revenue</Dscription><LineTotal>1523.92</LineTotal></row><row><LineNum>1</LineNum><AcctCode></AcctCode><Dscription>Shipping Revenue</Dscription><LineTotal>1806.84</LineTotal></row><row><LineNum>2</LineNum><AcctCode></AcctCode><Dscription>Promotion</Dscription><LineTotal>0</LineTotal></row><row><LineNum>3</LineNum><AcctCode></AcctCode><Dscription>Tax Revenue</Dscription><LineTotal>0</LineTotal></row><row><LineNum>4</LineNum><AcctCode></AcctCode><Dscription>Refunds</Dscription><LineTotal>-268.76</LineTotal></row><row><LineNum>5</LineNum><AcctCode></AcctCode><Dscription>Commission</Dscription><LineTotal>-239.06</LineTotal></row><row><LineNum>6</LineNum><AcctCode></AcctCode><Dscription>Shipping Expenses</Dscription><LineTotal>0</LineTotal></row><row><LineNum>7</LineNum><AcctCode></AcctCode><Dscription>Dues/Fees</Dscription><LineTotal>-293.12</LineTotal></row><row><LineNum>8</LineNum><AcctCode></AcctCode><Dscription>Storage Fees</Dscription><LineTotal>0</LineTotal></row></INV1></BO>
+
+						</BOM>
+	  					</objectdata>
+					</objectxml>
+				'
+				]]>
+			</Process>
+		</OrderProcProcesses>
